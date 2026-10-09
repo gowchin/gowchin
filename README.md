@@ -1,6 +1,6 @@
 # Hi, I'm Gowthaman 👋
 
-Platform & AI infrastructure engineer — building agent platforms, LLM tooling and cloud-native infra.
+Platform & AI infrastructure engineer 🚀 — building agent platforms, LLM tooling and cloud-native infra.
 
 ### 🛠️ Tech stack
 
